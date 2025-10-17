@@ -47,9 +47,6 @@ or if using CRA:
 
 npm start
 
-📸 Preview
-
-(You can add a screenshot or GIF of your app here)
 
 💡 Future Enhancements
 
